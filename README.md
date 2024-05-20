@@ -1,8 +1,8 @@
-#Extropic: Thermodynamic Computing for AI Acceleration
+# Extropic: Thermodynamic Computing for AI Acceleration
 
-##Overview and Origin
+## Overview and Origin
 
-Name: Extropic
+### Name: Extropic
 
 Incorporation Details: Extropic was founded in 2022 and is headquartered in the San Francisco Bay Area.
 
@@ -14,7 +14,7 @@ Funding: In December 2023, Extropic announced that it had raised $14.1 million i
 
   
 
-##Business Activities
+## Business Activities
 
 Problem Solving: Extropic's chip architecture addresses the limitations of digital computing in handling the insatiable demand for computing power driven by the rapid advancement of AI. Extropic utilizes a chip that excels at the type of probabilistic computation required by generative AI.
 
@@ -28,7 +28,7 @@ The company is also developing semiconductor devices that can operate at room te
 
   
 
-##Landscape
+## Landscape
 
 Field: AI chip technology
 
@@ -37,7 +37,7 @@ Trends and Innovations: Recent trends in AI hardware development include the ris
 Major Competitors: Major competitors in the AI chip market include established players like NVIDIA, AMD, Intel, and other startups who are also developing AI specific hardware.
 
 
-##Results
+## Results
 
 Business Impact: Extropic's new chip architecture is still in the early stages, but the company has already garnered significant attention and funding from investors, positioning itself as a potential disruptor in the AI hardware market.
 
@@ -46,12 +46,12 @@ Success Metrics: Extropic's success will likely be measured by the performance a
 Market Position: While Extropic is a newcomer in the AI chip market, its innovative approach and the expertise of its founding team have positioned the company as a promising contender in the race to develop the next generation of AI hardware.
 
 
-##Recommendations
+## Recommendations
 Future Products: Extropic could utilize their more cost effective semiconductor that operates at room temperatures to make consumer based AI hardware.
 Benefits of Suggestions: Broadening the applicability of Extropic's technology could open up new market opportunities and position the company as a leading provider of energy-efficient AI acceleration solutions across various domains.
 Technology Requirements: To realize these suggestions, Extropic may need to further refine its chip design and software stack to support a wider range of AI algorithms and workloads, as well as develop efficient scaling and parallelization techniques for its stochastic analog circuits.
 
-##Links
+## Links
 
 [Extropic Unveils Ai Chip](https://quantumzeitgeist.com/extropic-unveils-ai-chip/)
 [Extropic boldly claims their superconducting processors will beat GPUs TPUs and CPUs](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-startup-extropic-emerges-from-stealth-with-superconducting-processors-it-boldly-claims-will-beat-gpus-cpus-and-tpus)

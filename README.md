@@ -53,11 +53,12 @@ Technology Requirements: To realize these suggestions, Extropic may need to furt
 
 ## Links
 
-[ Extropic Unveils Ai Chip ] (https://quantumzeitgeist.com/extropic-unveils-ai-chip/)  
+[Extropic Unveils Ai Chip](https://quantumzeitgeist.com/extropic-unveils-ai-chip/)  
 
 [Extropic boldly claims their superconducting processors will beat GPUs TPUs and CPUs](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-startup-extropic-emerges-from-stealth-with-superconducting-processors-it-boldly-claims-will-beat-gpus-cpus-and-tpus)  
 
 [Extropic unveils vision for next generation Ai technology](https://thequantuminsider.com/2024/03/11/extropics-lite-paper-unveils-vision-for-next-generation-ai-tech-superconducting-chips/)  
 
-[Ex-alphabet researchers raise 14 million for quantum startup extropic](https://www.datacenterdynamics.com/en/news/ex-alphabet-researchers-raise-14m-for-quantum-startup-extropic/
-https://aimresearch.co/generative-ai/extropic-emerges-from-stealth-to-revolutionize-generative-ai-with-physics-based-ai-processors)
+[Ex-alphabet researchers raise 14 million for quantum startup extropic](https://www.datacenterdynamics.com/en/news/ex-alphabet-researchers-raise-14m-for-quantum-startup-extropic/)
+
+[Extropic emerges from stealth to revolutionize generative ai with physics based ai processors](https://aimresearch.co/generative-ai/extropic-emerges-from-stealth-to-revolutionize-generative-ai-with-physics-based-ai-processors)
